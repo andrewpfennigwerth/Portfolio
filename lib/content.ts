@@ -25,9 +25,9 @@ export const profile = {
   about: [
     "I think meaningful ideas are the root of why we build things. Coding allows me to be creative with a problem, and when I can build something that makes someone's day better, I'm even more motivated.",
     "My recent work includes visualizing GPS jamming and spoofing in real time, a fly-fishing AI tool that fuses live conditions with curated regional knowledge, and a react native app for discovering artists playing around NYC. I'm also interested in LLM tooling and agent design.",
-    "I also like to play guitar and be outside - fly fishing, backpacking, skiing, anything to do with mountains.",
+    "I also like to play guitar and be outside - fly fishing, backpacking, skiing.",
   ],
-  resumeHref: "/pfennigwerth_resume.pdf",
+  resumeHref: "/pfennigwerth_andrew_resume.pdf",
   email: "andrewpfennigwerth@gmail.com",
   phone: "(914) 536-9805",
   github: "https://github.com/andrewpfennigwerth",
@@ -68,7 +68,7 @@ export const projects: Project[] = [
     logo: "/stringsStandard.svg",
     blurb:
       "StreetStrings is a long-term passion project that aims to create a platform for small artists to share their work and for fans to discover their next live show. There's currently no simple way to discover and stay in the loop with smaller artists playing around NYC. Our real-time map and connection features will provide instant value for both types of users and we're excited to see where it goes. Planned release in 2026.",
-    tags: ["React Native", "Expo", "TypeScript", "Better Auth", "Drizzle ORM"],
+    tags: ["React Native", "Expo", "TypeScript", "Better Auth", "Drizzle ORM", "DigitalOcean"],
     links: [],
   },
 ];

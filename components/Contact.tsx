@@ -56,7 +56,7 @@ export default function Contact() {
       <SectionHeader eyebrow="Contact" title="Reach out." />
       <div className="grid gap-12 md:grid-cols-5">
         <p className="md:col-span-3 text-base sm:text-lg text-cream-soft leading-relaxed">
-          I&apos;m interested in all types of opportunities from freelancing to full time positions. I am also open to collaboration on projects. Please don't hesitate to reach out!
+          I&apos;m actively looking for full-time software engineering roles. Whether you're building something interesting or just want to connect, feel free to reach out.
         </p>
         <ul className="md:col-span-2 space-y-3">
           {channels.map(({ label, href, value, Icon }) => (
